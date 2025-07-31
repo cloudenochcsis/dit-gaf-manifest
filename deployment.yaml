@@ -18,7 +18,7 @@ spec:
       containers:
       - name: dit-gaf-web
         # This image tag will be updated by the CircleCI pipeline
-        image: akpadetsi/dit-gaf-web:latest
+        image: akpadetsi/dit-gaf-web:4
         ports:
         - containerPort: 80
         livenessProbe:
