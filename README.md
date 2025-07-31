@@ -1,8 +1,8 @@
-# Ghana Armed Forces Directorate of IT - Kubernetes Manifests
+# GAF DIT - Kubernetes Manifests
 
 ## Overview
 
-This repository contains the Kubernetes manifests for the official Ghana Armed Forces (GAF) Directorate of Information Technology (DIT) web application. The deployment is managed via a GitOps workflow, where this repository serves as the single source of truth for the application's desired state in the Kubernetes cluster.
+This repository contains the Kubernetes manifests for the official GAF DIT web application. The deployment is managed via a GitOps workflow, where this repository serves as the single source of truth for the application's desired state in the Kubernetes cluster.
 
 ## Manifests
 
